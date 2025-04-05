@@ -6,7 +6,7 @@
 */
 
 import 'package:flutter/material.dart';
-import 'package:flutter_custom_context_menu/providers/init_providers.dart';
+import 'package:flutter_custom_context_menu/core/init_providers.dart';
 import 'package:flutter_custom_context_menu/utils/strings.utils.dart';
 import 'package:flutter_custom_context_menu/views/home_screen.dart';
 import 'package:flutter_custom_context_menu/utils/apptheme.utils.dart';
