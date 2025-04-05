@@ -1,4 +1,4 @@
-![GSOC Banner Image](assets/gsoc_banner_image.jpeg)
+![GSOC Banner Image](assets/readme_images/gsoc_banner_image.jpeg)
 
 **Mentored By:** _Huan Lin, Justin McCandless_
 
@@ -15,8 +15,8 @@ This project uses **Provider for state management**, clean modular architecture,
 ## 🚀 Preview
 
 ### 📸 Screenshots
-![Demo Screenshot 1](assets/readme_images/demo_screenshot_1.jpg)  
-![Demo Screenshot 2](assets/readme_images/demo_screenshot_2.jpg)
+<img src="assets/readme_images/demo_screenshot_1.jpg" alt="Demo Screenshot 1" width="300" height="700">
+<img src="assets/readme_images/demo_screenshot_1.jpg" alt="Demo Screenshot 2" width="300" height="700">
 
 ### 🎥 Video Demo
 [![Click here to see the video demo](https://img.shields.io/badge/▶%20Click%20here%20to%20see%20the%20video%20demo-red?style=for-the-badge)](https://www.youtube.com/shorts/8AvdqU6feso)
