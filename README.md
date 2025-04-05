@@ -16,7 +16,7 @@ This project uses **Provider for state management**, clean modular architecture,
 
 ### 📸 Screenshots
 <img src="assets/readme_images/demo_screenshot_1.jpg" alt="Demo Screenshot 1" width="300" height="700">
-<img src="assets/readme_images/demo_screenshot_1.jpg" alt="Demo Screenshot 2" width="300" height="700">
+<img src="assets/readme_images/demo_screenshot_2.jpg" alt="Demo Screenshot 2" width="300" height="700">
 
 ### 🎥 Video Demo
 [![Click here to see the video demo](https://img.shields.io/badge/▶%20Click%20here%20to%20see%20the%20video%20demo-red?style=for-the-badge)](https://www.youtube.com/shorts/8AvdqU6feso)
