@@ -1,2 +1,16 @@
-# flutter_custom_context_menu_project
-A Flutter project showcasing a custom context menu in a TextField, with features like Shout, Reverse, and Text-to-Speech.
+# flutter_custom_context_menu
+
+A Flutter demo showcasing custom context menu actions in a TextField.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
